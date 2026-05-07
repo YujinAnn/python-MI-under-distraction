@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BCI Under Distraction — EEGNet Cross-Condition Evaluation
 
 Train an EEGNet motor-imagery classifier on the "clean" condition of the
