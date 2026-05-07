@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BCI Under Distraction — EEGNet Cross-Condition Evaluation
 
 Train an EEGNet motor-imagery classifier on the "clean" condition of the
@@ -94,3 +95,6 @@ Edit the constants at the top of `train.py`:
 - `TARGET_FS = 250` — effective sampling rate after downsampling (Hz)
 - `TEST_FRAC = 0.2` — fraction of clean trials held out as `test_acc 1`
 - `BATCH_SIZE`, `N_EPOCHS`, `LR`, `SEED`
+=======
+# python-MI-under-distraction
+>>>>>>> c2b06b1c8d5331a0485f97eba821d46fd809fbd9
