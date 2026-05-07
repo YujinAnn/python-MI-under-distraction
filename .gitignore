@@ -1,0 +1,38 @@
+# Data files (do not commit dataset)
+data/*
+!data/README.md
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints / outputs
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.log
+runs/
+outputs/
