@@ -41,6 +41,9 @@ from TU Berlin's DepositOnce:
 
 https://depositonce.tu-berlin.de/items/0f01eb46-4e6e-427a-9a68-b264a839615f
 
+The paper is "Motor Imagery Under Distraction— An Open Access BCI Dataset"
+https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.566147/full
+
 Place participant files into the `data/` folder at the repo root:
 
 ```
